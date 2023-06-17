@@ -21,4 +21,4 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-aws s3 cp --recursive build/* s3://${BUCKET}
+aws s3 cp --recursive build/ s3://${BUCKET}
