@@ -1,0 +1,19 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.pic {
+  height: 200px;
+  width: auto;
+  margin: 0 auto 16px;
+  display: inline-block;
+}
+
+.social img {
+  display: inline-block;
+  height: 40px;
+  margin: 0 10px;
+}
